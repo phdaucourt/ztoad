@@ -1,4 +1,4 @@
-# ztoad
+# ZTOAD
 Open SQL Editor
 
 This is just a clone of the original [ZTOAD](http://quelquepart.biz/article7/ztoad-requeteur-open-sql), an Open SQL editor.
